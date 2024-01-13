@@ -2,9 +2,12 @@
 
 ### Devtools Browser
 
+> Apertar a tecla F12 com o Browser aberto
+
 ```sh
 alert("Hello Word")
 ```
 
 ![Alt text](image.png)
-# The_Complete_JavaScript_Course_2024_From_Zero_to_Expert
+
+Test
